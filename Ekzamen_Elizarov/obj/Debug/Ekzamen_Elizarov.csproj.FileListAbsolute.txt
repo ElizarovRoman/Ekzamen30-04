@@ -1,0 +1,7 @@
+C:\Users\apisi\source\repos\Ekzamen_Elizarov\bin\Debug\Ekzamen_Elizarov.exe.config
+C:\Users\apisi\source\repos\Ekzamen_Elizarov\bin\Debug\Ekzamen_Elizarov.exe
+C:\Users\apisi\source\repos\Ekzamen_Elizarov\bin\Debug\Ekzamen_Elizarov.pdb
+C:\Users\apisi\source\repos\Ekzamen_Elizarov\obj\Debug\Ekzamen_Elizarov.csproj.AssemblyReference.cache
+C:\Users\apisi\source\repos\Ekzamen_Elizarov\obj\Debug\Ekzamen_Elizarov.csproj.CoreCompileInputs.cache
+C:\Users\apisi\source\repos\Ekzamen_Elizarov\obj\Debug\Ekzamen_Elizarov.exe
+C:\Users\apisi\source\repos\Ekzamen_Elizarov\obj\Debug\Ekzamen_Elizarov.pdb
